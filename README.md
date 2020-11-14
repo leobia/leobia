@@ -8,7 +8,7 @@ I'm Leonardo, an Italian tech enthusiast and full stack web developer.
 💻 full stack developer at Bridge Consulting | 🌱 Starting to contributing to open source.. | 💬 connect on <a href="https://www.linkedin.com/in/leonardo-bianco-dev">Linkedin</a>
 </h4>
 <p  align="center">
-<a href="https://leobia.github.io/">https://leobia.github.io</a>
+<a href="https://www.leonardobianco.dev">https://www.leonardobianco.dev</a>
 </p>
 
 ---
