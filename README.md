@@ -1,11 +1,11 @@
 <h3 align="center"> Hi there 👋</h3>
 
 <p align="center">
-I'm Leonardo, an Italian tech enthusiast and full stack web developer.
+I'm Leonardo, an Italian tech enthusiast and full stack developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer at Bridge Consulting | 🌱 Starting to contributing to open source.. | 💬 connect on <a href="https://www.linkedin.com/in/leonardo-bianco-dev">Linkedin</a>
+💻 full stack developer at <a href="https://www.linkedin.com/company/engineering-ingegneria-informatica-spa/">Engineering Ingegneria Informatica Spa</a> | 🌱 Starting to contributing to open source.. | 💬 connect on <a href="https://www.linkedin.com/in/biancoleonardo/">Linkedin</a>
 </h4>
 <p  align="center">
 <a href="https://www.leonardobianco.dev">https://www.leonardobianco.dev</a>
