@@ -5,7 +5,7 @@ I'm Leonardo, an Italian tech enthusiast and full stack developer.
 </p>
 
 <h4 align="center">
-💻 full stack developer at <a href="https://www.linkedin.com/company/engineering-ingegneria-informatica-spa/">Engineering Ingegneria Informatica Spa</a> | 🌱 Starting to contributing to open source.. | 💬 connect on <a href="https://www.linkedin.com/in/biancoleonardo/">Linkedin</a>
+💻 full stack developer at <a href="https://www.savinodelbene.com/it/servizi/opus-4plus/">Opus, a Savino del Bene company</a> | 💬 connect on <a href="https://www.linkedin.com/in/biancoleonardo/">Linkedin</a>
 </h4>
 <p  align="center">
 <a href="https://www.leonardobianco.dev">https://www.leonardobianco.dev</a>
